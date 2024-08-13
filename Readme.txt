@@ -1,0 +1,1 @@
+This project is for me to learn how to make a neural network from scratch. 
